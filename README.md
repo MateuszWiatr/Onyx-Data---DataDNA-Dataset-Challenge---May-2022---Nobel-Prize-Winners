@@ -1,6 +1,6 @@
 # Onyx Data - DataDNA Dataset Challenge - Nobel Prize Winners [May 2022]
 
-# Nobel Prize Data Dataset
+## Nobel Prize Data Dataset
 This month we are analyzing historic Nobel Prize data!
 
 The Nobel Prize is considered the most prestigious award in the world. 
